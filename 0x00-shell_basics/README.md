@@ -1,1 +1,1 @@
-a script that deletes all files in the current working directory
+a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory
