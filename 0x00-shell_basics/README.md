@@ -1,1 +1,1 @@
-a script that copies all the HTML files from the current working directory to the parent of the working directory
+a magic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0
