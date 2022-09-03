@@ -1,1 +1,1 @@
-The new owner
+A script that creates an empty file called hello
